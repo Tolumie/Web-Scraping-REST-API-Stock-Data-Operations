@@ -1,0 +1,25 @@
+amd.json
+Analyzing_Historical_Stock_Revenue Data and Building a Dashboard.ipynb
+apple.csv
+apple.json
+Census_Data_-_Selected_socioeconomic_indicators_in_Chicago__2008___2012_20240227.csv
+ChicagoCensusData.csv
+ChicagoCrimeData.csv
+ChicagoPublicSchools.csv
+Chicago_Public_Schools_-_Progress_Report_Cards__2011-2012__20240227.csv
+Content Web Scraping_Web-Scraping-Lab.ipynb
+CVD_Database_Create_Tables_Script.sql
+Data Collection with Web Scraping.ipynb
+Data wrangling_spacex.ipynb
+Data-collection-api-spacex.ipynb
+Extracting Data Via  API.ipynb
+Extracting Stock Data Using a Python Library.ipynb
+Extracting Stock Data Using aWeb Scraping.ipynb
+file_list.txt
+FinalDB.db
+games.csv
+Golden_State.pkl
+REST API.ipynb
+SQLITE  DATABASES with PYTHON.ipynb
+Web Scraping Top 2019 Movies at the Worldwide Box Office.ipynb
+_Extracting and Visualizing Stock Data_Watson.ipynb
